@@ -1,0 +1,26 @@
+
+/* font-family: 'Montserrat', sans-serif; */
+
+
+@font-face {
+	font-family: 'Montserrat', sans-seri;
+	src: url("../font/Montserrat/Montserrat-Black.ttf");
+	src: url("../font/Montserrat/Montserrat-BlackItalic.ttf");
+	src: url("../font/Montserrat/Montserrat-Bold.ttf");
+	src: url("../font/Montserrat/Montserrat-BoldItalic.ttf");
+	src: url("../font/Montserrat/Montserrat-ExtraBold.ttf");
+	src: url("../font/Montserrat/Montserrat-ExtraBoldItalic.ttf");
+	src: url("../font/Montserrat/Montserrat-ExtraLight.ttf");
+	src: url("../font/Montserrat/Montserrat-ExtraLightItalic.ttf");
+	src: url("../font/Montserrat/Montserrat-Italic.ttf");
+	src: url("../font/Montserrat/Montserrat-Light.ttf");
+	src: url("../font/Montserrat/Montserrat-LightItalic.ttf");
+	src: url("../font/Montserrat/Montserrat-Medium.ttf");
+	src: url("../font/Montserrat/Montserrat-MediumItalic.ttf");
+	src: url("../font/Montserrat/Montserrat-Regular.ttf");
+	src: url("../font/Montserrat/Montserrat-SemiBold.ttf");
+	src: url("../font/Montserrat/Montserrat-SemiBoldItalic.ttf");
+	src: url("../font/Montserrat/Montserrat-Thin.ttf");
+	src: url("../font/Montserrat/Montserrat-ThinItalic.ttf");
+
+}

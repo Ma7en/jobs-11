@@ -1,0 +1,54 @@
+
+@media (max-width: 767px) {
+
+
+    .jobs .container .jobs .cont {
+        flex-direction: column;
+    }
+
+    .jobs .container .jobs .cont .img {
+        flex-basis: 100%;
+    }
+    
+    .jobs .container .jobs .cont .text {
+        flex-basis: 100%;
+    }
+    
+    .jobs .container .jobs .cont .map {
+        flex-basis: 100%;
+    }
+
+    .jobs .container .jobs .cont .price {
+        flex-basis: 100%;
+    }
+
+    .jobs .container .jobs .cont .price a {
+        padding: 5px 20px;
+    }
+
+
+    .jobs .container .jobs .cont .text {
+        text-align: center;
+    }
+
+    .jobs .container .jobs .cont .text p {
+        margin-right: 0px;
+        margin: 10px 0;
+    }
+
+    .jobs .container .jobs .cont .map {
+        margin: 20px 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+

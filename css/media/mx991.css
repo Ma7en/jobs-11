@@ -1,0 +1,27 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+
+    .jobs .container .jobs .cont .feat {
+        display: none;
+    }
+
+    .jobs .container .jobs .cont .price {
+        flex-basis: 15%;
+    }
+
+    .jobs .container .jobs .cont .price a {
+        padding: 5px 2px;
+    }
+
+
+
+
+
+
+
+
+
+}
